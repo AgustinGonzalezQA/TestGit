@@ -1,0 +1,13 @@
+git show head
+git show 234234FDSA
+git show head~1
+git status
+git log --oneline
+git status
+git checkout *
+git checkout <file>
+git checkout <id>
+git revert <id>
+git reset
+git ignore
+asd
